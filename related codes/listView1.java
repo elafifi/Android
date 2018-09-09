@@ -1,3 +1,5 @@
+/*application src code for original project:
+    link: https://github.com/udacity/ud839_Miwok/tree/3b03dc9d978c7c412c907d23d4c4f4aba10d6d8f
 /*
  * Copyright (C) 2016 The Android Open Source Project
  *
